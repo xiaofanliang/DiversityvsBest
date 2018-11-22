@@ -9,6 +9,6 @@ The simulation is written in NetLogo Software. You can see the code [here]().
 Here are a few selections of the visuals for NetLogo Interface and Data Analysis. 
 <p align="center">
   <img src="https://github.com/xiaofanliang/DiversityvsBest/blob/master/img/netlogo.png"/>
-  <img src="https://github.com/michaelneuder/DiversityvsBest/blob/master/img/datadist.png"/>
+  <img src="https://github.com/xiaofanliang/DiversityvsBest/blob/master/img/datadist.png"/>
 </p>
 
